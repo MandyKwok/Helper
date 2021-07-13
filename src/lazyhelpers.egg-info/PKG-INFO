@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: lazyhelpers
+Version: 0.0.7
+Summary: Cheatsheet for handy functions
+Home-page: https://github.com/MandyKwok/Helper
+Author: lazy
+Author-email: lg2691@nyu.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
