@@ -1,4 +1,4 @@
-# Helper
+# lazyhelpers
 
 A cheatsheet of handy functions that improve your productivity.
 
